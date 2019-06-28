@@ -1,1 +1,2 @@
 test file with bla blabla
+new edited tests
